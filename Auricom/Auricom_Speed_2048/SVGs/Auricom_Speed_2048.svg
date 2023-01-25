@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.23478156"
-     inkscape:cx="1899.6381"
-     inkscape:cy="1209.635"
+     inkscape:zoom="0.33203127"
+     inkscape:cx="1764.894"
+     inkscape:cy="1057.1294"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="0"
@@ -6286,5 +6286,17 @@
        style="fill:#122951;fill-opacity:1;stroke-width:12.0471"
        d="m 527.49999,2058.9463 c -9.35323,-19.5505 -17.00588,-39.5713 -17.00588,-44.4908 0,-6.261 3.14895,-11.9966 10.49606,-19.1177 5.77284,-5.5952 11.01442,-9.5881 11.64796,-8.8731 2.30862,2.6054 42.60893,82.6769 42.60893,84.6584 0,1.7632 -17.51732,15.4171 -27.41765,21.3708 -2.06805,1.2436 -9.74763,-11.4292 -20.32942,-33.5476 z"
        id="path18234" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66604px;line-height:1.25;font-family:EVA-Matisse_Classic;-inkscape-font-specification:EVA-Matisse_Classic;stroke-width:0.649955"
+       x="-985.95972"
+       y="1683.7422"
+       id="text11746"
+       transform="rotate(-40.155199)"><tspan
+         sodipodi:role="line"
+         id="tspan11744"
+         x="-985.95972"
+         y="1683.7422"
+         style="stroke-width:0.649955">u/MarkGotLasagna</tspan></text>
   </g>
 </svg>
